@@ -20,8 +20,7 @@
 
 ###
 
-<h2 align="left">Skills</h2><br>
-
+<h2 align="left">Skills</h2>
 
 ###
 
