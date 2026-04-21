@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 I'm Sharath K</h1>
+<h1 align="left">Hi , I'm Sharath K</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">* 🚀 I'm currently working on Student-Scholarship-finder<br>* 🌱 I'm currently learning Data Analysis, JavaScript & React<br>* 🤝 I'm looking to collaborate on data and web projects<br>* 🧠 I'm looking for help with AI<br>* 💬 Ask me about Python, SQL, Power BI <br>* 📫 How to reach me: sharath.k0301@gmail.com</p>
+<p align="left">*  I'm currently working on Student-Scholarship-finder<br>*  I'm currently learning Data Analysis, JavaScript & React<br>*  I'm looking to collaborate on data and web projects<br>*  I'm looking for help with AI<br>*  Ask me about Python, SQL, Power BI <br>*  How to reach me: sharath.k0301@gmail.com</p>
 
 ###
 
